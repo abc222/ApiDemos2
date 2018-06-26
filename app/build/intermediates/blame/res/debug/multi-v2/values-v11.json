@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\ApiDemos2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "E:\\Android\\ApiDemos2\\app\\src\\main\\res\\values-v11\\bools.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "742",
+                        "endColumns": "45",
+                        "endOffsets": "783"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\ApiDemos2\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "26,18,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1104,775,934",
+                        "endLines": "27,19,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1202,840,1012"
+                    },
+                    "to": {
+                        "startLines": "3,5,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,204,274",
+                        "endLines": "4,6,8",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "199,269,352"
+                    }
+                }
+            ]
+        }
+    ]
+}
